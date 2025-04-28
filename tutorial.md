@@ -6,7 +6,8 @@ Este tutorial descreve o processo de criação de um aplicativo de Todo List usa
 
 1. Criar um novo projeto Expo:
 ```bash
-npx create-expo-app@latest --template #Blank
+npx create-expo-app@latest --template
+# Escolher o template blank
 Name: todo-list
 cd todo-list
 ```
